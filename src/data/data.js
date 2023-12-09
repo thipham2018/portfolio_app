@@ -13,7 +13,7 @@ export const data = [
     id: 2,
     name: "React JS Application",
     image: RealEst,
-    github: "",
+    github: "https://github.com/thipham2018/portfolio_app",
     live: "",
   },
   {
