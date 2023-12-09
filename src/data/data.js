@@ -27,7 +27,7 @@ export const data = [
     id: 4,
     name: "React JS Application",
     image: RealEst,
-    github: "",
+    github: "https://github.com/thipham2018/BBC_Newsreader",
     live: "",
   },
 
