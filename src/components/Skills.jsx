@@ -26,12 +26,12 @@ const Skills = () => {
           <p className='py-4'>These are the technologies I've worked with</p>
         </div>
         <div>
-          <p className='py-4'>Language skills</p>
+          <p className='py-4'>Language Skills</p>
         </div>
         <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
             <img className='w-20 mx-auto' src={Java} alt="HTML icon" />
-            <p className='my-4'>JAVA</p>
+            <p className='my-4'>Java</p>
           </div>
 
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
