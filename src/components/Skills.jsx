@@ -6,7 +6,7 @@ import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
 import Node from '../assets/node.png';
 import Java from '../assets/java.png';
-import GitHub from '../assets/github.png';
+//import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.png';
 import Csharp from '../assets/csharp.png';
