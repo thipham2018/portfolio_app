@@ -17,7 +17,11 @@ const Work = () => {
             MY EXPERIENCES
           </p>
           <p className='py-4'>My recent experience</p>
-          <p className='py-4'>Responsible for the corporation’s IT infrastructure; provided technical support for hardware  (desktops, laptops, and printers); maintained network equipment (routers, servers, and firewalls); troubleshoot network connectivity issues; installed, upgraded and troubleshoot software applications (Microsoft Windows, Microsoft Office Suite, Microsoft SQL Server, Azure DevOps); provided support for email and communication systems (Gmail, Zoom).</p>
+          <p className='py-4'>Responsible for the corporation’s IT infrastructure; provided technical support for hardware
+            (desktops, laptops, and printers); maintained network equipment (routers, servers, and firewalls);
+            troubleshoot network connectivity issues; installed, upgraded and troubleshoot software applications
+            (Microsoft Windows, Microsoft Office Suite, Microsoft SQL Server, Azure DevOps);
+            provided support for email and communication systems (Gmail, Zoom).</p>
           <p className='py-4'>My Projects</p>
         </div>
 
