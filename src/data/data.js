@@ -1,4 +1,4 @@
-import WorkIm from '../assets/projects/WorkIm.jpg'
+import WorkIm from '../assets/projects/workImg.jpeg'
 import RealEst from '../assets/projects/realestate.jpg'
 import Delete from '../assets/projects/Delete.png'
 
