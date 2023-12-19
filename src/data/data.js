@@ -1,6 +1,6 @@
 import WorkIm from '../assets/projects/WorkIm.jpg'
 import RealEst from '../assets/projects/realestate.jpg'
-import Delete from '../assets/projects/delete.png'
+import Delete from '../assets/projects/Delete.png'
 
 export const data = [
   {
