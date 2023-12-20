@@ -28,14 +28,14 @@ export const data = [
     id: 3,
     name: "React JS Application",
     image: WorkIm,
-    github: "https://github.com/thipham2018/portfolio_app",
+    github: "https://github.com/thipham2018/BloodBank",
     live: "",
   },
   {
     id: 4,
     name: "React JS Application",
     image: RealEst,
-    github: "https://github.com/thipham2018/BBC_Newsreader",
+    github: "https://github.com/thipham2018/pythonProject",
     live: "",
   },
 
