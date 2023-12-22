@@ -21,7 +21,7 @@ export const data = [
     id: 2,
     name: "React JS Application",
     image: RealEst,
-    github: "https://github.com/thipham2018/portfolio_app",
+    github: "https://github.com/thipham2018/BloodBank",
     live: "",
   },
   {
@@ -35,7 +35,7 @@ export const data = [
     id: 4,
     name: "React JS Application",
     image: RealEst,
-    github: "https://github.com/thipham2018/pythonProject",
+    github: "https://github.com/thipham2018/Food_oder_Online",
     live: "",
   },
 
