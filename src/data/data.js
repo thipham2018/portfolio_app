@@ -20,7 +20,7 @@ export const data = [
   {
     id: 2,
     name: "React JS Application",
-    image: RealEst,
+    image: Delete,
     github: "https://github.com/thipham2018/BloodBank",
     live: "",
   },
