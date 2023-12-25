@@ -50,7 +50,7 @@ const Work = () => {
                       Project
                     </button>
                   </a>
-                  {/* eslint-disable-next-line */}
+                  {eslint - disable - next - line}
                   {<a href={item.live} target="_blank">
                     <button
                       className="text-center rounded-lg px-4 py-3 m-2
